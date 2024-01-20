@@ -1,2 +1,2 @@
-# consultas-SQL
+# Consultas-SQL
 Este repositório foi criado para organizar minhas consultas SQL.
